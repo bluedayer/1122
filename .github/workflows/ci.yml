@@ -26,3 +26,4 @@ jobs:
           git pull --rebase
           git commit --allow-empty -m "养号,撸空投,今年希望能赚100万!"
           git push
+          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
